@@ -28,7 +28,7 @@ Didalam program ini semua logic untuk mengatur diskon baik nominal, persen dan c
 ```
 
 ## 3. Class Diagram 
-### Coupon With OCP
+### Coupon Without OCP
 ![alt text](https://github.com/MTYU-Luki/CouponWithoutOCP/blob/master/ClassDiagram1.png)
 
 
